@@ -1,0 +1,15 @@
+
+.container-fluid {
+    max-width: 100%;
+}
+.row {
+    max-width: 100%;
+}
+
+.bgprimary {
+    background-color: #c0d4f5;;
+}
+
+.mrr {
+    top: -1rem;
+}
